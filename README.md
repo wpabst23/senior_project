@@ -23,13 +23,20 @@ I intend to record my findings in a report in late April. I intend to present my
 
 Bibliography
 [1]	E. Marks, “Price Dynamics in Virtual World Auctions.”
+
 [2]	M. Pawlikowski and M. Brand, “Excessive Internet gaming and decision making: Do excessive World of Warcraft players have problems in decision making under risky conditions?,” Psychiatry Res., vol. 188, no. 3, pp. 428–433, Aug. 2011.
+
 [3]	Y. Guo and S. J. Barnes, “Explaining Purchasing Behavior within World of Warcraft,” J. Comput. Inf. Syst., vol. 52, no. 3, pp. 18–30, Mar. 2012.
+
 [4]	Y. Guo and S. Barnes, “Virtual item purchase behavior in virtual worlds: an exploratory investigation,” Electron. Commer. Res., vol. 9, no. 1–2, pp. 77–96, Jun. 2009.
+
 [5]	C. S. Peters and L. A. Malesky, “Problematic Usage Among Highly-Engaged Players of Massively Multiplayer Online Role Playing Games,” Cyberpsychol. Behav., vol. 11, no. 4, pp. 481–484, Aug. 2008.
+
 [6]	P. Svoboda, W. Karner, and M. Rupp, “Traffic Analysis and Modeling for World of Warcraft,” in 2007 IEEE International Conference on Communications, 2007, pp. 1612–1617.
+
 [7]	“WoW Gold Price research: A World of Warcraft Gold study.” [Online]. Available: http://www.gamerprice.com/wow-gold-study.html. [Accessed: 26-Feb-2018].
+
 [8]	D. Friedman, “World of Warcraft’s gold rush has upended Blizzard’s economy,” Polygon, 20-Feb-2017. [Online]. Available: https://www.polygon.com/2017/2/20/14667728/world-of-warcraft-tokens-blizzard-hearthstone-overwatch. [Accessed: 26-Feb-2018].
 
 
-A program that pulls and parses information from the World of Warcraft Auction House and Item Repository APIs.
+Contained in this git repository will be a program that pulls and parses information from the World of Warcraft Auction House and Item Repository APIs.
