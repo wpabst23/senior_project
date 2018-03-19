@@ -1,6 +1,6 @@
 # senior_project
 
-Development of a Methodology to Exploit Predictable Behavior in the World of Warcraft Virtual Auction House
+Methodology to Exploit Predictable Behavior in the World of Warcraft Virtual Auction House
 
 Abstract
 Virtual markets are everywhere. In massively-multiplayer online (MMO) video games, it takes the shape of an “Auction House,” an eBay-like auction board, where players can exchange items and materials with other players, in exchange for in-game currency. Studies have shown that These virtual markets mimic real market behavior so closely, that they can be studied for real world application [1]. MMO players are some of the most engaged video game players out there. Studies have shown that highly engaged video game players exhibit predictable, and ultimately risky behavior [2]–[5]. Predictability in markets is bad, because it creates an opportunity to exploit the market, and damage it as a result. As a long-time player of the MMO “World of Warcraft,” I have observed a troubling behavior within the Warcraft auction house, namely, that auction house prices are more elastic on the weekend. I Intend to investigate.
